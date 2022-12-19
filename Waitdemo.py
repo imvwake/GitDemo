@@ -36,3 +36,4 @@ time.sleep(10)
 totalamount = int(driver.find_element(By.XPATH,"//span[@class='totAmt']").text)
 print(totalamount)
 assert sum == totalamount
+#kmfkvmkfnvjfn
