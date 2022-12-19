@@ -15,4 +15,4 @@ driver.find_element(By.LINK_TEXT, "Click Here").click()
 windowss = driver.window_handles
 driver.switch_to.window(windowss[1])
 print(driver.find_element(By.TAG_NAME, "h3").text)
-time.sleep(2)
+time.sleep(20)

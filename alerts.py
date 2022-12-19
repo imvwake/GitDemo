@@ -12,4 +12,4 @@ driver.get("https://www.rahulshettyacademy.com/AutomationPractice/")
 driver.find_element(By.ID, "name").send_keys("ind")
 driver.find_element(By.ID, "alertbtn").click()
 time.sleep(10)
-
+#Vivek Marwal Name is My
